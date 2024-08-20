@@ -1,13 +1,8 @@
-#main{
-    
+    .bg {
     text-align: center;
-    /* background-image:url("Screenshot (4).png");
-    background-position: center; */
-  
+    background-color: rgb(182, 31, 31);
 }
-#extra{
-  color: rgba(240, 255, 241, 0.011);
-}
+
     
 #second{   
     display: inline-block;
@@ -38,8 +33,92 @@ a{
     border-width: 20%;
     border-style: solid;
     margin-top: 25px;
+    margin-left: 75px;
     a{
         color:maroon;
     }
    
+}
+#content2  {
+    display: inline-block;
+    border-radius: 20%;
+    border-color: maroon;
+    border-width: 20%;
+    border-style: solid;
+    margin-top: 25px;
+    margin-left: 350px;
+
+    a{
+        color:maroon;
+    }
+   
+}
+#content3  {
+    display: inline-block;
+    border-radius: 20%;
+    border-color: maroon;
+    border-width: 20%;
+    border-style: solid;
+    margin-top: 25px;
+    margin-left: 350px;
+    
+    a{
+        color:maroon;
+    }
+   
+}
+#content4  {
+    display: inline-block;
+    border-radius: 20%;
+    border-color: maroon;
+    border-width: 20%;
+    border-style: solid;
+    margin-top: 25px;
+    margin-left: 75px;
+    
+    a{
+        color:maroon;
+    }
+   
+}
+#content5  {
+    display: inline-block;
+    border-radius: 20%;
+    border-color: maroon;
+    border-width: 20%;
+    border-style: solid;
+    margin-top: 25px;
+    margin-left: 350px;
+    
+    a{
+        color:maroon;
+    }
+   
+}
+#content6  {
+    display: inline-block;
+    border-radius: 20%;
+    border-color: maroon;
+    border-width: 20%;
+    border-style: solid;
+    margin-top: 25px;
+    margin-left: 350px;
+    
+    a{
+        color:maroon;
+    }
+   
+}
+#important{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: rgb(197, 169, 164);
+}
+#Bottom{
+    background-color: black;
+    color:white;
+    text-align: center;
+    ul{
+        list-style-type:none;
+    }
 }
